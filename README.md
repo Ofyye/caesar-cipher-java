@@ -66,7 +66,3 @@ fdvd
 ✔ Funcionando corretamente
 
 ---
-
-## 👨‍💻 Autor
-
-Desenvolvido por você 😏
